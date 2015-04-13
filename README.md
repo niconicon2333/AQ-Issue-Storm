@@ -3,9 +3,11 @@
 
 ![mahua](https://avatars0.githubusercontent.com/u/11917238?v=3&s=460)
 
-AQ-Issue-Storm
+# AQ-Issue-Storm
 open issue discuss hub
-----------------
+
+
+
 * 想法起源
     * 来源于很早之前被leader骂的经历.
     * 一开始的时候,和Leader大谈mvc,然后被一句为什么mvc好用,这么设计有什么好处噎住了.再听其谈各种项目模式,架构方法.
