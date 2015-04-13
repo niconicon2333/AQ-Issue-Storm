@@ -3,7 +3,7 @@
 
 ![mahua](https://avatars0.githubusercontent.com/u/11917238?v=3&s=460)
 
-# AQ-Issue-Storm
+AQ-Issue-Storm
 open issue discuss hub
 ----------------
 * 想法起源
