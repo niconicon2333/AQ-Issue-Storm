@@ -23,3 +23,18 @@
 
 
 
+
+
+
+## Answer
+
+###Smali
+* 问题一
+	* 	xxxxxxx
+	*  xxxxxx
+	*  xxxxxx
+* 问题二
+	* 	xxxxxxx
+	
+
+	
